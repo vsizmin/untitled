@@ -11,7 +11,7 @@ class Pet {
             System.out.println("Я очень голоден, давайте перекусим чипсами!");
     }
     public String say (String aWord){
-            String petsResponce="Ну ладно!!"+aWord;
-            return petsResponce;
+            String petResponce="Ну ладно"+aWord;
+            return petResponce;
     }
 }
